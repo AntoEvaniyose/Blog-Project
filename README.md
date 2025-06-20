@@ -66,7 +66,7 @@ Project Root/
 1️⃣ **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AntoEvaniyose/Blog-Project.git
 cd Book Fast API
 ```
 
